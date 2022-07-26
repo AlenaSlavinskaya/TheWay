@@ -1,5 +1,0 @@
-namber = input('Введите трехзначное число:')
-a = int(namber[0])
-b = int(namber[1])
-c = int(namber[2])
-print('Сумма цифр числа:',a+b+c)
